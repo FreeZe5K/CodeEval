@@ -22,7 +22,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Data Recovery
         - [ ] Delta Time
         - [ ] Details
-        - [ ] Even Numbers
+        - [X] Even Numbers
         - [ ] Fibonacci Series
         - [ ] File Size
         - [ ] Find A Writer
