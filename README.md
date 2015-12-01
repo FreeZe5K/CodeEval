@@ -69,7 +69,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Stepwise Word
         - [ ] String Mask
         - [ ] Strings And Arrows
-        - [ ] Sum Of Digits
+        - [X] Sum Of Digits
         - [ ] Sum Of Integers From File
         - [ ] Sum Of Primes
         - [ ] Swap Case
