@@ -48,7 +48,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Multiply Lists
         - [ ] N Mod M
         - [ ] Nice Angles
-        - [ ] Odd Numbers
+        - [X] Odd Numbers
         - [ ] One Zero, Two Zeros
         - [ ] Penultimate Word
         - [ ] Prime Palindrome
@@ -107,7 +107,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Double Squares
         - [ ] Double Trouble
         - [ ] Email Validation
-        - [ ] Endianness
+        - [X] Endianness
         - [ ] Filename Pattern
         - [ ] Find A Square
         - [ ] First Non-Repeated Character
