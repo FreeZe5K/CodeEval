@@ -51,7 +51,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [X] Odd Numbers
         - [ ] One Zero, Two Zeros
         - [ ] Penultimate Word
-        - [ ] Prime Palindrome
+        - [X] Prime Palindrome
         - [ ] Query Board
         - [ ] Racing Chars
         - [ ] Read More
