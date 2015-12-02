@@ -71,7 +71,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Strings And Arrows
         - [X] Sum Of Digits
         - [ ] Sum Of Integers From File
-        - [ ] Sum Of Primes
+        - [X] Sum Of Primes
         - [ ] Swap Case
         - [ ] Swap Elements
         - [ ] Swap Numbers
