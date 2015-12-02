@@ -101,7 +101,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Column Names
         - [ ] Consecutive Primes
         - [ ] Counting Primes
-        - [ ] Decimal To Binary
+        - [X] Decimal To Binary
         - [ ] Decode Numbers
         - [ ] Detecting Cycles
         - [ ] Double Squares
