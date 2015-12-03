@@ -1941,7 +1941,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Lucky Tickets
         - [ ] Magic Numbers
         - [ ] Minimum Coins
-        - [ ] Mth To Last Element
+        - [X] Mth To Last Element
         - [ ] Number Of Ones
         - [ ] Number Operations
         - [ ] Number Pairs
