@@ -1618,7 +1618,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Find The Highest Score
         - [ ] Fizz Buzz
         - [ ] Happy Numbers
-        - [ ] Hex To Decimal
+        - [X] Hex To Decimal
         - [ ] Hidden Digits
         - [ ] JSON Menu IDs
         - [ ] Juggling With Zeros
