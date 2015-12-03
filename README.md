@@ -490,7 +490,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Knight Moves
         - [ ] Lettercase Percentage Ratio
         - [ ] Longest Word
-        - [ ] Lowercase
+        - [X] Lowercase
         - [ ] Lowest Unique Number
         - [ ] Matrix Rotation
         - [ ] Max Range Sum
