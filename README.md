@@ -1603,7 +1603,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Bit Positions
         - [ ] Black Card
         - [ ] Calculate Distance
-        - [ ] Capitalize Words
+        - [X] Capitalize Words
         - [ ] Chardonnay Or Cabernet
         - [ ] Clean Up The Words
         - [ ] Compare Points
