@@ -1742,7 +1742,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Sum Of Integers
         - [ ] Sum To Zero
         - [ ] The Ministry Of Truth
-        - [ ] Trailing String
+        - [X] Trailing String
         - [ ] Twenty Forty Eight
         - [ ] URI Comparison
         - [ ] Valid Parenthesis
