@@ -173,7 +173,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Cracking Eggs
     - [ ] Crime House
     - [ ] Da Vyncy
-    - [ ] Decryption
+    - [X] Decryption
     - [ ] Digit Statistics
     - [ ] Discount Offers
     - [ ] Distinct Subsequences
