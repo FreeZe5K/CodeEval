@@ -1609,7 +1609,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Compare Points
         - [ ] Compressed Sequence
         - [ ] Data Recovery
-        - [ ] Delta Time
+        - [X] Delta Time
         - [ ] Details
         - [ ] Even Numbers
         - [ ] Fibonacci Series
