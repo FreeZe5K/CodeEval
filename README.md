@@ -1667,7 +1667,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] The Major Element
         - [ ] Time To Eat
         - [ ] Trick Or Treat
-        - [ ] Unique Elements
+        - [X] Unique Elements
         - [ ] Without Repetitions
         - [ ] Word To Digit
         - [ ] Working Experience
