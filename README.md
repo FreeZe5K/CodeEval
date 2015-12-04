@@ -1635,7 +1635,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Multiples Of A Number
         - [ ] Multiplication Tables
         - [ ] Multiply Lists
-        - [ ] N Mod M
+        - [X] N Mod M
         - [ ] Nice Angles
         - [ ] Odd Numbers
         - [ ] One Zero, Two Zeros
