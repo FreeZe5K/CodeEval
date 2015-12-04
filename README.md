@@ -1695,7 +1695,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] Detecting Cycles
         - [ ] Double Squares
         - [ ] Double Trouble
-        - [ ] Email Validation
+        - [X] Email Validation
         - [ ] Endianness
         - [ ] Filename Pattern
         - [ ] Find A Square
