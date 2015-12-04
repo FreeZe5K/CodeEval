@@ -1739,7 +1739,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] String Rotation
         - [ ] Sudoku
         - [ ] Suggest Groups
-        - [ ] Sum Of Integers
+        - [X] Sum Of Integers
         - [ ] Sum To Zero
         - [ ] The Ministry Of Truth
         - [X] Trailing String
