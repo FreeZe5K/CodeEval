@@ -1659,7 +1659,7 @@ Here is the status of all the challenges. The checked off challenges are complet
         - [ ] String Mask
         - [ ] Strings And Arrows
         - [ ] Sum Of Digits
-        - [ ] Sum Of Integers From File
+        - [X] Sum Of Integers From File
         - [ ] Sum Of Primes
         - [X] Swap Case
         - [ ] Swap Elements
