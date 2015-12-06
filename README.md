@@ -137,7 +137,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Point In Circle
     - [ ] Predict The Number
     - [ ] Prime Numbers
-    - [ ] Remove Characters
+    - [X] Remove Characters
     - [ ] Reverse And Add
     - [ ] Reverse Groups
     - [ ] Robo And Robitta
