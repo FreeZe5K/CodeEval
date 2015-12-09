@@ -27,7 +27,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] File Size
     - [ ] Find A Writer
     - [ ] Find The Highest Score
-    - [ ] Fizz Buzz
+    - [X] Fizz Buzz
     - [ ] Happy Numbers
     - [X] Hex To Decimal
     - [ ] Hidden Digits
