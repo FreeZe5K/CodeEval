@@ -10,7 +10,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Age Distribution
     - [ ] Armstrong Numbers
     - [ ] Beautiful Strings
-    - [ ] Big Digits
+    - [X] Big Digits
     - [ ] Bit Positions
     - [ ] Black Card
     - [ ] Calculate Distance
