@@ -11,7 +11,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Armstrong Numbers
     - [ ] Beautiful Strings
     - [X] Big Digits
-    - [ ] Bit Positions
+    - [X] Bit Positions
     - [ ] Black Card
     - [ ] Calculate Distance
     - [X] Capitalize Words
