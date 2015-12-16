@@ -146,7 +146,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Sequence Transformation
     - [ ] Simple Calcuator
     - [ ] Sort Matrix Columns
-    - [ ] Stack Implementation
+    - [X] Stack Implementation
     - [ ] String Rotation
     - [ ] Sudoku
     - [ ] Suggest Groups
