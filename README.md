@@ -43,7 +43,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Minimum Distance
     - [ ] Mixed Content
     - [ ] Morse Code
-    - [ ] Multiples Of A Number
+    - [X] Multiples Of A Number
     - [ ] Multiplication Tables
     - [ ] Multiply Lists
     - [X] N Mod M
