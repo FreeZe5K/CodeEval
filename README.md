@@ -131,7 +131,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Number Pairs
     - [ ] Organizational Hierarchy
     - [ ] Overlapping Rectangles
-    - [ ] Pangrams
+    - [X] Pangrams
     - [ ] Pascals Triangle
     - [ ] Pass Triangle
     - [ ] Point In Circle
