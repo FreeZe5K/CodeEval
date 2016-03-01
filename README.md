@@ -42,7 +42,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Max Range Sum
     - [ ] Minimum Distance
     - [ ] Mixed Content
-    - [ ] Morse Code
+    - [X] Morse Code
     - [X] Multiples Of A Number
     - [ ] Multiplication Tables
     - [ ] Multiply Lists
