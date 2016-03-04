@@ -139,7 +139,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Prime Numbers
     - [X] Remove Characters
     - [ ] Reverse And Add
-    - [ ] Reverse Groups
+    - [X] Reverse Groups
     - [ ] Robo And Robitta
     - [ ] Roman And Arabic
     - [ ] Seek For An Intruder
