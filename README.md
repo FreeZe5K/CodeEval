@@ -58,7 +58,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Reverse Words
     - [ ] Rightmost Char
     - [ ] Road Trip
-    - [ ] Roller Coaster
+    - [X] Roller Coaster
     - [ ] Roman Numerals
     - [ ] Self Describing Numbers
     - [ ] Set Intersection
