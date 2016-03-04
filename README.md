@@ -76,7 +76,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Swap Elements
     - [ ] Swap Numbers
     - [ ] The Major Element
-    - [ ] Time To Eat
+    - [X] Time To Eat
     - [ ] Trick Or Treat
     - [X] Unique Elements
     - [ ] Without Repetitions
