@@ -136,7 +136,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Pascals Triangle
     - [ ] Pass Triangle
     - [ ] Point In Circle
-    - [ ] Predict The Number
+    - [X] Predict The Number
     - [ ] Prime Numbers
     - [X] Remove Characters
     - [ ] Reverse And Add
