@@ -66,7 +66,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Simple Sorting
     - [ ] Slang Flavor
     - [ ] Split The Number
-    - [ ] Stepwise Word
+    - [X] Stepwise Word
     - [ ] String Mask
     - [ ] Strings And Arrows
     - [X] Sum Of Digits
