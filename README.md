@@ -86,7 +86,7 @@ Here is the status of all the challenges. The checked off challenges are complet
 - [ ] Moderate
     - [ ] A Pile Of Bricks
     - [ ] Alternative Reality
-    - [ ] Array Absurdity
+    - [X] Array Absurdity
     - [ ] Balanced Smileys
     - [ ] Bats Challenge
     - [ ] Black Or White
