@@ -4,28 +4,14 @@ $file = fopen( $argv[ 1 ], 'r' );
 
 while( false !== ( $line = fgets( $file ) ) )
 {
-    $words      = explode( ' ', trim( $line ) );
-    $letters    = array( );
-    $longest    = '';
-    $longestlen = 0;
+    $words  = explode( ' ', trim( $line ) );
+    $lens   = array_map( 'strlen', $words );
+    $word   = $words[ array_search( max( $lens ), $lens, true ) ];
     
-    foreach( $words as $word )
-    {
-        if( strlen( $word ) <= strlen( $longest ) )
-            continue;
-        
-        $longest = $word;
-    }
+    unset( $words, $lens );
     
-    $longestlen = strlen( $longest );
-    
-    for( $index = 0; $index < $longestlen; ++$index )
-    {
-        if( $index > 0 )
-            echo ' ';
-        
-        echo str_repeat( '*', $index ) . $longest[ $index ];
-    }
+    foreach( str_split( $word ) as $index => $char )
+        echo str_repeat( '*', $index ), $char, ' ';
     
     echo "\n";
 }
