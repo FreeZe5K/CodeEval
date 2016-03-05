@@ -75,6 +75,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Swap Case
     - [ ] Swap Elements
     - [ ] Swap Numbers
+    - [X] Testing
     - [ ] The Major Element
     - [X] Time To Eat
     - [ ] Trick Or Treat
