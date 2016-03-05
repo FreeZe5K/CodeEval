@@ -67,7 +67,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Slang Flavor
     - [ ] Split The Number
     - [X] Stepwise Word
-    - [ ] String Mask
+    - [X] String Mask
     - [ ] Strings And Arrows
     - [X] Sum Of Digits
     - [X] Sum Of Integers From File
