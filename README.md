@@ -7,7 +7,7 @@ Please do not simply copy and paste this code into CodeEval as a quick means to 
 Here is the status of all the challenges. The checked off challenges are completed, and the unchecked ones still need to be coded. All the challenges that are checked off have been tested for errors and successfully passed the CodeEval Test.
 
 - [ ] Easy
-    - [ ] Age Distribution
+    - [X] Age Distribution
     - [ ] Armstrong Numbers
     - [ ] Beautiful Strings
     - [X] Big Digits
