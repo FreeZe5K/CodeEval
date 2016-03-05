@@ -74,7 +74,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Sum Of Primes
     - [X] Swap Case
     - [ ] Swap Elements
-    - [ ] Swap Numbers
+    - [X] Swap Numbers
     - [X] Testing
     - [ ] The Major Element
     - [X] Time To Eat
