@@ -112,7 +112,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Filename Pattern
     - [ ] Find A Square
     - [ ] First Non-Repeated Character
-    - [ ] Flavius Josephus
+    - [X] Flavius Josephus
     - [ ] Game Of Life
     - [ ] Gronsfeld Cipher
     - [ ] Guess The Number
