@@ -23,9 +23,9 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Delta Time
     - [ ] Details
     - [X] Even Numbers
-    - [ ] Fibonacci Series
+    - [X] Fibonacci Series
     - [X] File Size
-    - [ ] Find A Writer
+    - [X] Find A Writer
     - [ ] Find The Highest Score
     - [X] Fizz Buzz
     - [ ] Happy Numbers
