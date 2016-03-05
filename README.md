@@ -133,7 +133,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Organizational Hierarchy
     - [ ] Overlapping Rectangles
     - [X] Pangrams
-    - [ ] Pascals Triangle
+    - [X] Pascals Triangle
     - [ ] Pass Triangle
     - [ ] Point In Circle
     - [X] Predict The Number
