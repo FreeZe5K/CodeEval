@@ -34,7 +34,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] JSON Menu IDs
     - [ ] Juggling With Zeros
     - [ ] Knight Moves
-    - [ ] Lettercase Percentage Ratio
+    - [X] Lettercase Percentage Ratio
     - [X] Longest Word
     - [X] Lowercase
     - [ ] Lowest Unique Number
