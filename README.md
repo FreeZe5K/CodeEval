@@ -68,7 +68,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Split The Number
     - [X] Stepwise Word
     - [X] String Mask
-    - [ ] Strings And Arrows
+    - [X] Strings And Arrows
     - [X] Sum Of Digits
     - [X] Sum Of Integers From File
     - [X] Sum Of Primes
