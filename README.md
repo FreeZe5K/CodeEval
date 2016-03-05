@@ -122,7 +122,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Locks
     - [ ] Longest Lines
     - [ ] Lost In Translation
-    - [ ] Lowest Common Ancestor
+    - [X] Lowest Common Ancestor
     - [ ] Lucky Tickets
     - [ ] Magic Numbers
     - [ ] Minimum Coins
