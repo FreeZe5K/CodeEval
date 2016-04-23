@@ -13,7 +13,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Big Digits
     - [X] Bit Positions
     - [ ] Black Card
-    - [ ] Calculate Distance
+    - [X] Calculate Distance
     - [X] Capitalize Words
     - [ ] Chardonnay Or Cabernet
     - [ ] Clean Up The Words
