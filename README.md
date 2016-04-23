@@ -94,7 +94,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Builders Team
     - [ ] Burrows-Wheeler Transform
     - [ ] Car Race
-    - [ ] Card Number Validation
+    - [X] Card Number Validation
     - [ ] Cash Register
     - [ ] Chain Inspection
     - [ ] City Blocks Flyover
