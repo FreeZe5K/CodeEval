@@ -12,7 +12,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Beautiful Strings
     - [X] Big Digits
     - [X] Bit Positions
-    - [ ] Black Card
+    - [X] Black Card
     - [X] Calculate Distance
     - [X] Capitalize Words
     - [ ] Chardonnay Or Cabernet
