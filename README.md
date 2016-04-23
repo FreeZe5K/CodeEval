@@ -8,7 +8,7 @@ Here is the status of all the challenges. The checked off challenges are complet
 
 - [ ] Easy
     - [X] Age Distribution
-    - [ ] Armstrong Numbers
+    - [X] Armstrong Numbers
     - [ ] Beautiful Strings
     - [X] Big Digits
     - [X] Bit Positions
