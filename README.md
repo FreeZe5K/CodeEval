@@ -61,7 +61,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Roller Coaster
     - [ ] Roman Numerals
     - [ ] Self Describing Numbers
-    - [ ] Set Intersection
+    - [X] Set Intersection
     - [ ] Shortest Repetition
     - [ ] Simple Sorting
     - [ ] Slang Flavor
