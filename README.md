@@ -111,7 +111,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Endianness
     - [ ] Filename Pattern
     - [ ] Find A Square
-    - [ ] First Non-Repeated Character
+    - [X] First Non-Repeated Character
     - [X] Flavius Josephus
     - [ ] Game Of Life
     - [ ] Gronsfeld Cipher
