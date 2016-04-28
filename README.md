@@ -54,7 +54,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Prime Palindrome
     - [ ] Query Board
     - [ ] Racing Chars
-    - [ ] Read More
+    - [X] Read More
     - [ ] Reverse Words
     - [ ] Rightmost Char
     - [ ] Road Trip
