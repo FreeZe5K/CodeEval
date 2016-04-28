@@ -62,7 +62,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Roman Numerals
     - [ ] Self Describing Numbers
     - [X] Set Intersection
-    - [ ] Shortest Repetition
+    - [X] Shortest Repetition
     - [X] Simple Sorting
     - [ ] Slang Flavor
     - [ ] Split The Number
