@@ -32,7 +32,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Hex To Decimal
     - [ ] Hidden Digits
     - [X] JSON Menu IDs
-    - [ ] Juggling With Zeros
+    - [X] Juggling With Zeros
     - [ ] Knight Moves
     - [X] Lettercase Percentage Ratio
     - [X] Longest Word
