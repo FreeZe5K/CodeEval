@@ -49,7 +49,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] N Mod M
     - [ ] Nice Angles
     - [X] Odd Numbers
-    - [ ] One Zero, Two Zeros
+    - [X] One Zero, Two Zeros
     - [ ] Penultimate Word
     - [X] Prime Palindrome
     - [ ] Query Board
