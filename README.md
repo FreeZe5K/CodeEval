@@ -47,7 +47,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Multiplication Tables
     - [ ] Multiply Lists
     - [X] N Mod M
-    - [ ] Nice Angles
+    - [X] Nice Angles
     - [X] Odd Numbers
     - [X] One Zero, Two Zeros
     - [X] Penultimate Word
