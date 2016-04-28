@@ -44,7 +44,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Mixed Content
     - [X] Morse Code
     - [X] Multiples Of A Number
-    - [ ] Multiplication Tables
+    - [X] Multiplication Tables
     - [ ] Multiply Lists
     - [X] N Mod M
     - [X] Nice Angles
