@@ -73,7 +73,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Sum Of Integers From File
     - [X] Sum Of Primes
     - [X] Swap Case
-    - [ ] Swap Elements
+    - [X] Swap Elements
     - [X] Swap Numbers
     - [X] Testing
     - [X] The Major Element
