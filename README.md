@@ -63,7 +63,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Self Describing Numbers
     - [X] Set Intersection
     - [ ] Shortest Repetition
-    - [ ] Simple Sorting
+    - [X] Simple Sorting
     - [ ] Slang Flavor
     - [ ] Split The Number
     - [X] Stepwise Word
