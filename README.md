@@ -50,7 +50,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Nice Angles
     - [X] Odd Numbers
     - [X] One Zero, Two Zeros
-    - [ ] Penultimate Word
+    - [X] Penultimate Word
     - [X] Prime Palindrome
     - [ ] Query Board
     - [ ] Racing Chars
