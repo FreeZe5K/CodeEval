@@ -16,7 +16,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Calculate Distance
     - [X] Capitalize Words
     - [ ] Chardonnay Or Cabernet
-    - [ ] Clean Up The Words
+    - [X] Clean Up The Words
     - [ ] Compare Points
     - [ ] Compressed Sequence
     - [ ] Data Recovery
@@ -55,8 +55,8 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Query Board
     - [ ] Racing Chars
     - [X] Read More
-    - [ ] Reverse Words
-    - [ ] Rightmost Char
+    - [X] Reverse Words
+    - [X] Rightmost Char
     - [ ] Road Trip
     - [X] Roller Coaster
     - [ ] Roman Numerals
