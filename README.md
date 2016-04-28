@@ -80,7 +80,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Time To Eat
     - [X] Trick Or Treat
     - [X] Unique Elements
-    - [ ] Without Repetitions
+    - [X] Without Repetitions
     - [ ] Word To Digit
     - [ ] Working Experience
 - [ ] Moderate
