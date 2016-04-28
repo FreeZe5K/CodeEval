@@ -117,7 +117,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Gronsfeld Cipher
     - [ ] Guess The Number
     - [ ] Interrupted Bubble Sort
-    - [ ] Jolly Jumpers
+    - [X] Jolly Jumpers
     - [ ] Justify The Text
     - [ ] Locks
     - [ ] Longest Lines
