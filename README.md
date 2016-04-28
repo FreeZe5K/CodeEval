@@ -31,7 +31,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Happy Numbers
     - [X] Hex To Decimal
     - [ ] Hidden Digits
-    - [ ] JSON Menu IDs
+    - [X] JSON Menu IDs
     - [ ] Juggling With Zeros
     - [ ] Knight Moves
     - [X] Lettercase Percentage Ratio
