@@ -81,7 +81,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Trick Or Treat
     - [X] Unique Elements
     - [X] Without Repetitions
-    - [ ] Word To Digit
+    - [X] Word To Digit
     - [ ] Working Experience
 - [ ] Moderate
     - [ ] A Pile Of Bricks
