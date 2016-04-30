@@ -37,7 +37,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Lettercase Percentage Ratio
     - [X] Longest Word
     - [X] Lowercase
-    - [ ] Lowest Unique Number
+    - [X] Lowest Unique Number
     - [ ] Matrix Rotation
     - [ ] Max Range Sum
     - [ ] Minimum Distance
@@ -99,7 +99,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Chain Inspection
     - [ ] City Blocks Flyover
     - [ ] Color Code Converter
-    - [ ] Column Names
+    - [X] Column Names
     - [ ] Consecutive Primes
     - [ ] Counting Primes
     - [X] Decimal To Binary
@@ -120,14 +120,14 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Jolly Jumpers
     - [ ] Justify The Text
     - [ ] Locks
-    - [ ] Longest Lines
+    - [X] Longest Lines
     - [ ] Lost In Translation
     - [X] Lowest Common Ancestor
     - [ ] Lucky Tickets
     - [ ] Magic Numbers
     - [ ] Minimum Coins
     - [X] Mth To Last Element
-    - [ ] Number Of Ones
+    - [X] Number Of Ones
     - [ ] Number Operations
     - [ ] Number Pairs
     - [ ] Organizational Hierarchy
@@ -139,7 +139,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Predict The Number
     - [ ] Prime Numbers
     - [X] Remove Characters
-    - [ ] Reverse And Add
+    - [X] Reverse And Add
     - [X] Reverse Groups
     - [ ] Robo And Robitta
     - [ ] Roman And Arabic
