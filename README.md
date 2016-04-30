@@ -171,7 +171,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Code Plagiarism
     - [ ] Commuting Engineer
     - [ ] Computer Terminal
-    - [ ] Cracking Eggs
+    - [X] Cracking Eggs
     - [ ] Crime House
     - [ ] Da Vyncy
     - [X] Decryption
