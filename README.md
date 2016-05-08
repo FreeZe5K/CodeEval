@@ -60,7 +60,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [ ] Road Trip
     - [X] Roller Coaster
     - [ ] Roman Numerals
-    - [ ] Self Describing Numbers
+    - [X] Self Describing Numbers
     - [X] Set Intersection
     - [X] Shortest Repetition
     - [X] Simple Sorting
