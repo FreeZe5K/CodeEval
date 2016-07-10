@@ -30,7 +30,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Fizz Buzz
     - [ ] Happy Numbers
     - [X] Hex To Decimal
-    - [ ] Hidden Digits
+    - [X] Hidden Digits
     - [X] JSON Menu IDs
     - [X] Juggling With Zeros
     - [ ] Knight Moves
