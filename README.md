@@ -1,6 +1,6 @@
 # CodeEval Challenges
 
-The files in this repository are the different ways I went about solving the many challenges found on CodeEval. I made this repo public so that all of you can see how the challenges may be solved, in as many languages that I know. 
+The files in this repository are the different ways I went about solving the many challenges found on CodeEval. I made this repo public so that all of you can see how the challenges may be solved, in as many languages that I know.
 
 Please do not simply copy and paste this code into CodeEval as a quick means to get a higher score. It will lower both of our scores, and you will have not learned anything. If you have a question about some of the code, feel free to message me directly and I will gladly explain any of my code.
 
@@ -59,7 +59,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Rightmost Char
     - [ ] Road Trip
     - [X] Roller Coaster
-    - [ ] Roman Numerals
+    - [X] Roman Numerals
     - [X] Self Describing Numbers
     - [X] Set Intersection
     - [X] Shortest Repetition
