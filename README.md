@@ -17,7 +17,7 @@ Here is the status of all the challenges. The checked off challenges are complet
     - [X] Capitalize Words
     - [ ] Chardonnay Or Cabernet
     - [X] Clean Up The Words
-    - [ ] Compare Points
+    - [X] Compare Points
     - [ ] Compressed Sequence
     - [ ] Data Recovery
     - [X] Delta Time
